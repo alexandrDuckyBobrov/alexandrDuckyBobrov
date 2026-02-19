@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- I'm currently working on some Unity game
+
+My technology stack:
+> C#, MS SQL, Visual Studio (WinForms, ASP.NET), Git, Java, 1C:Enterprise 8.3
+
+
+
+
 <!--
 **alexandrDuckyBobrov/alexandrDuckyBobrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
